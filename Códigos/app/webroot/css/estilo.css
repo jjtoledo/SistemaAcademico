@@ -1,0 +1,57 @@
+#footerRow {
+	text-align: center;
+	color: #888;
+}
+
+.container-fluid#foot {
+	position: relative;
+	padding-top: 10px;
+}
+
+.container-fluid#foot1 {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding-top: 10px;
+}
+
+#foot {
+	background-color: #fff;
+	border-top: solid 2px;
+	color: #aaa;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+#foot1 {
+	background-color: #fff;
+}
+
+
+#icone {
+	max-width: 16px;
+	max-height: 16px;
+}
+
+#logo {
+	width: 800px;
+	max-height: 350px;
+}
+
+#menu {
+	margin-bottom: 55px;
+}
+
+#recuperar {
+	text-decoration: none;
+	color: #aaa;
+}
+
+#recuperar:hover {
+	color: #ddd;
+}
+
+#content {
+	margin-bottom: 50px;
+}
